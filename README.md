@@ -44,8 +44,8 @@ Multi-class classification with 96.67% accuracy using logistic regression. Demon
 #### 📫 Contact
 
 - Email: wafiqrazy035@gmail.com
-- LinkedIn: M.Wafiq Al Farazy
-- Kaggle: Wafiq Razy38
+- LinkedIn: [M.Wafiq Al Farazy](https://www.linkedin.com/in/m-wafiq-al-farazy-7755a0391/)
+- Kaggle: https://www.kaggle.com/wafiqrazy38
 
 ---
 
