@@ -1,16 +1,52 @@
-## Hi there 👋
+### Hi, I'm Wafiq Razy 
 
-<!--
-**wafiqrazy035-art/wafiqrazy035-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring ML Engineer from Indonesia, currently building hands-on portfolio through Kaggle competitions and end-to-end machine learning projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🎯 Currently Learning
+
+- Machine Learning fundamentals (scikit-learn, ensemble methods)
+- Real-world data preprocessing and feature engineering  
+- Cross-validation, hyperparameter tuning, and model evaluation
+- Working towards: NLP, Computer Vision, and ML deployment
+
+---
+
+#### 📊 Featured Projects
+
+**🚢 [Titanic — ML from Disaster](https://github.com/wafiqrazy035-art/titanic-classifier)**
+
+Kaggle competition predicting passenger survival. Built voting ensemble with 0.76794 public score. Demonstrates feature engineering, cross-validation, and ensemble methods.
+
+`Python` `scikit-learn` `pandas` `Kaggle`
+
+**🌸 [Iris Flower Classifier](https://github.com/wafiqrazy035-art/iris-classifier)**
+
+Multi-class classification with 96.67% accuracy using logistic regression. Demonstrates complete ML workflow: EDA, training, evaluation, and feature importance analysis.
+
+`Python` `scikit-learn` `matplotlib` `seaborn`
+
+---
+
+#### 🛠️ Tech Stack
+
+**Languages:** Python
+
+**ML/Data:** scikit-learn · pandas · NumPy · matplotlib · seaborn
+
+**Tools:** Git · GitHub · Jupyter Notebook · VSCode
+
+**Currently exploring:** PyTorch · XGBoost · Streamlit
+
+---
+
+#### 📫 Contact
+
+- Email: wafiqrazy035@gmail.com
+- LinkedIn: M.Wafiq Al Farazy
+- Kaggle: Wafiq Razy38
+
+---
+
+*Open to internship opportunities in ML Engineering or Data Science.*
